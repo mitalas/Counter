@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: rgba(128, 128, 128, 0.651);
+}
+
+.count-down-timer{
+    display: flex;
+    justify-content: space-around;
+}
